@@ -10,7 +10,8 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "magic.ts"
+        "magic.ts",
+        "icons.jres"
     ],
     "testFiles": [
         "test.ts"
