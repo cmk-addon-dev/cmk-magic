@@ -41,7 +41,7 @@ function getParticleArgs(particle: MagicParticle): string {
 /**
  * Custom blocks
  */
-//% weight=100 color=#bce2e8 icon="\uf06d" block="まほう"
+//% weight=100 color=#5b9bd5 icon="\uf06d" block="まほう"
 namespace cmkMagic {
     //% block="%projectile に まほう %particle をつける"
     //% inlineInputMode=inline
